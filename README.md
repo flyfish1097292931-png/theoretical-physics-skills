@@ -1,8 +1,10 @@
 # Theoretical Physics Skills
 
-**Four research workflows for the gap between getting an answer and knowing what it supports.**
+**A growing, open-source collection of skills for theoretical physics research.**
 
-理论物理研究技能：预先固定验证标准，定位两路计算的分歧，留下可复算的数值证据，写出与证据范围相符的结论。
+这是一个持续扩充的理论物理研究 skills 仓库，收录可复用的研究方法与实操指南，供研究者和 AI 助手按需使用。
+
+## Skill catalog / 技能目录
 
 | When you need to… | Read |
 |---|---|
@@ -24,4 +26,4 @@ python3 -B -m unittest discover -s tests -v
 
 ## Provenance and license
 
-Prepared by Feiyu Deng with Hermes Agent assistance. The four documents are public adaptations of general research workflows. They do not include original research case files or private runtime dependencies. The oscillator example is an elementary, newly written teaching fixture, not a new scientific result. No third-party source code is bundled. [MIT license](LICENSE).
+Prepared by Feiyu Deng with Hermes Agent assistance. The published skills are written for reuse without private research materials or runtime dependencies. The oscillator example is a teaching fixture. No third-party source code is bundled. [MIT license](LICENSE).
